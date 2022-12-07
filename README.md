@@ -1,6 +1,6 @@
-# PBDAA-Fall-2022
+# somecode
 
-PBDAA-Fall-2022 Course Project (GHG Emissions and Deforestation).
+ (GHG Emissions and Deforestation).
 
  This README outlines the directory structure and also includes instructions as to how to build and run our code as well.
 
